@@ -1,0 +1,46 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  row-gap: 10px;
+  column-gap: 5px;
+  background-color: blue;
+  margin-top: 150px;
+  margin-left: 90px;
+  margin-bottom: 50px;
+}
+
+.first-main-grid {
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.hair-div {
+  margin-bottom: 0px;
+}
+
+.hairs {
+  width: 100%;
+}
+
+.bulb {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.figure {
+  margin-top: 0px;
+}
+
+.human {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.bulb-div {
+  margin-top: 0px;
+  margin-left: 10px;
+  font-weight: bold;
+  color: rgb(231, 229, 229);
+}
+
