@@ -1,0 +1,39 @@
+.sub-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 150px;
+  color: rgb(179, 172, 172);
+  font-weight: bold;
+}
+
+.contacts {
+  font-size: 20px;
+  color: white
+}
+
+.wigs {
+  font-size: 20px;
+  color: white;
+}
+
+.sitee {
+  color: white;
+  font-size: 20px;
+}
+
+.social-div {
+  margin-left: 1000px;
+  color: white;
+  font-weight: bold;
+}
+
+.socials-div {
+  font-size: 20px;
+  margin-left: 150px;
+}
+
+.whatsapp {
+  color: green;
+  display: flex;
+  justify-content: space-between;
+}
